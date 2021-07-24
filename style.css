@@ -1,0 +1,88 @@
+/* Imports*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap');
+
+/*Styling*/
+body{
+  text-align: center;
+  background-image: url(https://goldwallpapers.com/uploads/posts/space-background/space_background_001.jpg);
+}
+
+.aimg {
+  border-radius: 30px;
+  width: 400px;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    float: right;
+    color: white;
+}
+
+.link {
+  list-style: none;
+  color: white;
+  float: right;
+  margin: 10px;
+  padding: 5px 20px;
+  border: 1px white solid;
+  transition: 0.9s;
+}
+
+.link:hover{
+  background-color: white;
+  color: black;
+}
+
+#sli{
+    margin: 40px;
+}
+
+.bimg {
+    float: left;
+    width: 10px !important;
+}
+
+#as {
+    height: 20px;
+    width: 40px;
+    padding: 5px 20px;
+    border: 2px transparent solid;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+
+#as:hover {
+    color: chocolate;
+    background-color: white;
+}
+
+
+.spac {
+    width: 500px;
+}
+
+
+
+.contact{
+    background-color: aqua;
+}
+
+#cim {
+    border-radius: 300px;
+}
+
+section{
+    margin: 100px;
+    
+}
